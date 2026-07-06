@@ -77,31 +77,31 @@ Players alternate turns selecting and moving pieces. The game validates every mo
 
 ## ♟️ Game Start
 
-![Game Start](Screenshots/Scene1.png)
+![Game Start](ScreenShots/Scene1.png)
 
 ---
 
 ## 📖 Instructions
 
-![Instructions](Screenshots/Scene2.png)
+![Instructions](ScreenShots/Scene2.png)
 
 ---
 
 ## 👥 Player Names
 
-![Players](Screenshots/Scene3.png)
+![Players](ScreenShots/Scene3.png)
 
 ---
 
 ## 💾 New Game / Saved Game
 
-![Menu](Screenshots/Scene4.png)
+![Menu](ScreenShots/Scene4.png)
 
 ---
 
 ## 🎮 Gameplay
 
-![Gameplay](Screenshots/Scene5.png)
+![Gameplay](ScreenShots/Scene5.png)
 
 ---
 
